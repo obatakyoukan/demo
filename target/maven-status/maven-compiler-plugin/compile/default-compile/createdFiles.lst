@@ -1,0 +1,5 @@
+com/example/repository/PlanRepository.class
+com/example/domain/Plan.class
+com/example/api/PlanRestController.class
+com/example/DemoApplication.class
+com/example/service/PlanService.class
